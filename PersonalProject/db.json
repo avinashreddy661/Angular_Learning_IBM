@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "August 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Meeting with Reddy laboratory",
+      "day": "August 6th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Engineer Appointment",
+      "day": "July 22",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Meeting with security team",
+      "day": "30th July 2022 @ 4pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Meeting with BRE Team ",
+      "day": "1st August 2022 @ 11AM",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}

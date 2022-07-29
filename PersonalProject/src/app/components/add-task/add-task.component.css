@@ -1,0 +1,10 @@
+.form-control-check {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .add-form {
+    margin-bottom: 40px;
+  }
+  
